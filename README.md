@@ -1,4 +1,4 @@
-# 3D-2D_Kibble_Razarides_Shafi_Domain_Wall_in_Polar_Distorted_BPhase
+# 3D-2D_Kibble_Lazarides_Shafi_Domain_Wall_in_Polar_Distorted_BPhase
 
 These codes were used to calculate the equlibrium state configurations of 2D(3D in translation symmetry case) Kiibble-Lazarides-Shafi Sring Wall and the Spin vector soliton connecting on this composite objects.
 
